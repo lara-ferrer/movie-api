@@ -25,3 +25,4 @@
 /Users/user/Desktop/servidor/MovieAPI/obj/Debug/net5.0/ref/MovieAPI.dll
 /Users/user/Desktop/servidor/MovieAPI/obj/Debug/net5.0/MovieAPI.pdb
 /Users/user/Desktop/servidor/MovieAPI/obj/Debug/net5.0/MovieAPI.genruntimeconfig.cache
+/Users/user/Desktop/servidor/MovieAPI/bin/Debug/net5.0/web.config
